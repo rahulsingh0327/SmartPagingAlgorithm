@@ -20,15 +20,15 @@ A machine learning-powered system to predict memory-related actions based on sys
 
 PageFaultPredictiveMeasure/
 │
-├── app\_utils/
-│   ├── memory\_action\_classifier.pkl          # Trained model
-│   └── test\_data\_with\_predictions.csv        # Test set with true and predicted labels
+├── app_utils/
+│   ├── memory_action_classifier.pkl          # Trained model
+│   └── test_data_with_predictions.csv        # Test set with true and predicted labels
 │
 ├── data/
 │   └── windows.csv                           # Raw input data
 │
-├── model\_train.py                            # Data loading, training, evaluation, and model saving
-├── test\_viz.py                               # Retro GUI for testing and visualization
+├── model_train.py                            # Data loading, training, evaluation, and model saving
+├── test_viz.py                               # Retro GUI for testing and visualization
 ├── README.md                                 # You are here 📖
 
 ````
