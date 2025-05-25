@@ -1,4 +1,4 @@
-## 🧠 PageFaultPredictiveMeasure
+## 🧠 SmartPagingAlgorithm
 
 A machine learning-powered system to predict memory-related actions based on system metrics like RAM usage, swap usage, and CPU usage. It classifies system memory behavior into actionable categories to assist with predictive resource management and diagnostics.
 
